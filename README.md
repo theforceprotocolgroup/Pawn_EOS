@@ -1,4 +1,4 @@
-### force.protocol
+## The Force Protocol on EOS
 
 <div align=center>
 	<span>
@@ -61,7 +61,7 @@ AlphaCoin Fund深度孵化，作为火币超级节点，IOST、CMT等项目的�
 	</span>
 </div>
 
-说明：生成代币的流程如下
+生成 token 的流程如下：
 
 - 创建钱包
 
@@ -71,6 +71,4 @@ AlphaCoin Fund深度孵化，作为火币超级节点，IOST、CMT等项目的�
 
 - 部署合约
 
-说明：eosio.token代码为2018年7月的历史代码，在EOS研发过程中，有很多经验积累，如果对技术感兴趣，可联系 michael@theforceprotocol.com
-
-
+说明：eosio.token 代码为2018年7月的历史代码，团队在 EOS DAPP 研发的过程中，已经有很多经验积累，如果对相关的技术细节感兴趣，可联系 michael@theforceprotocol.com
