@@ -1,4 +1,4 @@
-## The Force Protocol on EOS
+## The Force Protocol on EOS ecology
 
 <div align=center>
 	<span>
