@@ -32,4 +32,4 @@
 *.app
 
 # other
-./force.protocol/.idea/*
+force.protocol/.idea/*
